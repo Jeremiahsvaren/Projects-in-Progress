@@ -10,8 +10,10 @@ A collection of ideas and projects that I want to work on.
 
 #### HTML & CSS
 * A 30 day Challenge with HTML5 and CSS3
-* 
 
 #### PHP
 * Create a WordPress Plugin
 * Create a WordPress Theme
+
+#### APIs to use
+* Edmunds (For car data)
