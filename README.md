@@ -16,4 +16,4 @@ A collection of ideas and projects that I want to work on.
 * Create a WordPress Theme
 
 #### APIs to use
-* Edmunds (For car data)
+* Edmunds to alert someone when their car value has reached a value they set.
