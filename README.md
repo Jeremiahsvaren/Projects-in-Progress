@@ -6,6 +6,7 @@ A collection of ideas and projects that I want to work on.
 #### Fun Ideas 
 * Write an app to keep track of GitHub commits
 * Write a program to impress my job placment director 
+* Create a simple automated test
 
 
 #### HTML & CSS
