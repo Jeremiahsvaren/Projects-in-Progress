@@ -1,14 +1,16 @@
-### Projects in Progress
-*** 
+### Projects in Progress Idea Board
+A collection of ideas and projects that I want to create
+***
 
-A collection of ideas and projects that I want to work on.
-
-#### Fun Ideas 
+#### Brain Dump
 * Write an app to keep track of GitHub commits
 * Write a program to impress my job placment director 
-* Create a simple automated test
+* Use Edmunds API to alert someone when their car value has reached a value they set.
 
+***
 
+## Sorted by language
+ 
 #### HTML & CSS
 * A 30 day Challenge with HTML5 and CSS3
 
@@ -16,5 +18,7 @@ A collection of ideas and projects that I want to work on.
 * Create a WordPress Plugin
 * Create a WordPress Theme
 
-#### APIs to use
-* Edmunds to alert someone when their car value has reached a value they set.
+#### Python
+* Create a simple automated test
+
+
