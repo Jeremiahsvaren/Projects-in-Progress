@@ -6,7 +6,7 @@ A collection of ideas and projects that I want to create
 * Write an app to keep track of GitHub commits
 * Write a program to impress my job placment director 
 * Use Edmunds API to alert someone when their car value has reached a value they set.
-* Create a web basaed side scrolling game
+* Create a web based side scrolling game
 
 ***
 
