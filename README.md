@@ -18,6 +18,7 @@ A collection of ideas and projects that I want to create
 #### PHP
 * Create a WordPress Plugin
 * Create a WordPress Theme
+* A book tracking web app
 
 #### Python
 * Create a simple automated test
