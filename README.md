@@ -18,7 +18,7 @@ A collection of ideas and projects that I want to create
 #### PHP
 * Create a WordPress Plugin
 * Create a WordPress Theme
-* A book tracking web app
+* ![A book tracking web app](https://github.com/Jeremiahsvaren/Book-Tracking-App)
 
 #### Python
 * Create a simple automated test
